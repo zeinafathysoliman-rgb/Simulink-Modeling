@@ -27,4 +27,4 @@ The simulation accurately maps the pack's voltage sag and chemical relaxation ph
 ## How to Run
 1. Load the `The .mat file 142S4P_Molicel P45B.mat` file into the MATLAB workspace.
 2. Open `SimulinkModel_PulseTest.slx` in Simulink.
-3. Run the simulation (Stop Time: 75.0s) and open the Scope block to view the voltage response curve.
+3. Run the simulation (Stop Time: 80.0s) and open the Scope block to view the voltage response curve.
